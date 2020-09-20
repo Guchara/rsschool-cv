@@ -1,1 +1,33 @@
+.text-bold {
+    font-weight: bold;
+}
 
+.text-size {
+    font-size: small;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.h1 {
+    text-align: center;
+}
+
+.h2 {
+    text-align: center;
+}
+
+.h3 {
+    text-align: center;
+}
+
+.margin-body {
+    margin: 0px 300px;
+    background-color: aqua;
+}
+
+.margin-block {
+    margin: 0px 50px;
+    text-align: center;
+}
