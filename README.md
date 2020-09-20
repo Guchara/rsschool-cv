@@ -1,2 +1,2 @@
-[CV](https://guchara.github.io/rsschool-cv/cv)  
-[CV-1](https://guchara.github.io/rsschool-cv/)
+[CV (Markdown)](https://guchara.github.io/rsschool-cv/cv)  
+[CV (HTML & CSS)](https://guchara.github.io/rsschool-cv/)
